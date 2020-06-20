@@ -29,6 +29,7 @@
 ## 3. Web Development
 + <a href = "https://www.youtube.com/watch?v=qgGIqRFvFFk"> Django Tutorial </a>
 + <a href = "https://www.youtube.com/watch?v=mr90d7fp3SE&list=PLQVvvaa0QuDcOS4l8RCWh0olq_je0OKaP"> Flask Tutorial </a>
++ <a href = "https://tutorial.djangogirls.org/"> Django Girls </a>
 
 ## 4. Desktop APP Development
 + <a href = "https://kivy.org/#home"> Kivy(Android, Desktop, IOS) Applications </a>
@@ -70,6 +71,11 @@
 + <a href = "https://www.djangoproject.com/">Learn Django to make backend accessible | Python </a>
 + <a href = "https://www.dataquest.io/blog/web-scraping-tutorial-python/"> Beautiful Soup Web Scraping Library Tutorial</a>
 + <a href = "https://docs.quantifiedcode.com/python-anti-patterns/index.html"> Python Anti-Patterns</a>
++ <a href = "https://interactivepython.org/runestone/static/pythonds/index.html"> Learn Algorithms and Data Structures using Python</a>
++ <a href = "https://ipython.org/"> Edit and recode a work session with iPython</a>
++ <a href = "https://www.hackster.io/dexterindustries/give-your-raspberry-pi-robot-a-worm-brain-bc5cc1"> Code a Raspberry Pi to function as the brain of a robot</a>
++ <a href = "https://realpython.com/python-bitcoin-ifttt/"> Use Python to build a Bitcoin price notification service</a>
++ <a href = "https://runcode.ninja"> Programming CTF platform supporting multiple languages</a>
 
 ## 9. **Projects**
 + <a href ="https://github.com/shauryauppal/PyWhatsapp">PyWhatsapp | Whatsapp Automation </a>
@@ -86,10 +92,11 @@
 + <a href = "https://docs.djangoproject.com/en/2.1/intro/tutorial01/"> Django Documentation Poll App Tutorial (Version 2.1)</a>
 + <a href = "https://simpleisbetterthancomplex.com/series/beginners-guide/1.11/">A Complete Beginner's Guide to Django (Version 1.11)</a>
 + <a href = "https://tutorial.djangogirls.org/en/installation/">Django Girls Tutorial (Version 2.0.6)</a>
++ <a href = "https://www.django-rest-framework.org/tutorial/quickstart/"> Django REST framework quickstart guide</a>
 
 ## **Flask**
 + <a href = "http://flask.pocoo.org/docs/1.0/"> Welcome to Flask — Flask 1.0.2 documentation - Pocoo</a>
 + <a href = "https://www.youtube.com/watch?v=zRwy8gtgJ1A&list=PLillGF-RfqbbbPz6GSEM9hLQObuQjNoj_">Flask from scratch in Python</a>
-+ <a href = "https://www.youtube.com/watch?v=j5wysXqaIV8&t=5011s">CS50 Flask</a>
++ <a href = "https://www.youtube.com/watch?v=j5wysXqaIV8">CS50 Flask</a>
 
 

@@ -10,7 +10,7 @@ Als ich noch zur Schule ging, habe ich viele Gelegenheiten verpasst, weil ich ni
 Ich möchte nicht, dass werdenden Entwicklern das Gleiche widerfährt.
 Deswegen habe ich mit einigen anderen Entwicklern aus der ganzen Welt eine Liste mit Lernmaterial zusammengestellt. Wenn Du Dich gerade im Lernprozess befindest oder vor kurzem angefangen hast, schau' sie Dir gerne mal an!
 
-![Image](res/xx.gif)
+![Image](../res/xx.gif)
 
 *Bildquelle: Google*
 
@@ -321,7 +321,7 @@ different programming languages**
 |21 | [Y Combinator Hacks]() | USA | - | - | - |
 |22 | [TreeHacks]() | USA | - | - | - |
 |23 | [Global Hackathon Seoul](https://seoul.globalhackathon.io/) | South Korea | YES | - | - |
-|24 | [Call for Code](https://callforcode.org/) | Online | - | - | - |
+|24 | [Call for Code](https://callforcode.org/challenge/) | Online | - | Feb 12 2019 | Jul 29 2019 |
 |25 | [Mercari Euro Hack](https://challengerocket.com/) | Online + Onsite (Poland) | Yes | Mid October |- |
 |26 | [InOut](https://hackinout.co/) | Onsite (India) | Yes | October | - |
 |27 | [HackIIITD](http://esya.iiitd.edu.in/hackiiitd/) | Onsite (India) | No | August-September | - |

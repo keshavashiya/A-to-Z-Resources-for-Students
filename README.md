@@ -1,9 +1,12 @@
-
 # A to Z Resources for Students 
+
+<a href="https://tracking.gitads.io/?repo=https://github.com/dipakkr/A-to-Z-Resources-for-Students/"> <img src="https://images.gitads.io/https://github.com/dipakkr/A-to-Z-Resources-for-Students/" alt="GitAds"/> GitAd</a>
+
+
 
 ## **Version 2 of A to Z Resource Coming Soon, Click this link and get notified when it available**  - [NOTIFY ME FOR EARLY ACCESS](https://dipakkr.substack.com/)
 
-This repository is created and curated by Deepak Kumar ( [Twitter](https://twiiter.com/HQdeepak) ). There are more than 500+ individual contributors have  helped creating this repository. We can see the list of contributors at [Contributors](CONTRIBUTORS.md) page.
+This repository is created and curated by Deepak Kumar ( [Twitter](https://twitter.com/HQdeepak) ). There are more than 500+ individual contributors have  helped creating this repository. We can see the list of contributors at [Contributors](CONTRIBUTORS.md) page.
 
 If you think this repository helped you in any in finding new opportunities, tag me on Twitter( @HQdeepak ) and help it reach more people in the community. 
 
@@ -1133,11 +1136,9 @@ When I was in college, I missed a lot of opportunities like hackathons, conferen
 
 Hey, I am excited to see you here. I hope you find the project useful. Follow me and Share the A2Z-Resources in your network. 
 
-
-###  **Deepak Kumar** -  [Twitter](https://twitter.com/HQdeepak)     -  [Instagram](http://instagram.com/dipakkr.co)  -   [LinkedIn](https://www.linkedin.com/in/dipakkr/)  
-
 [![Twitter Follow](https://img.shields.io/twitter/follow/HQdeepak.svg?style=social)](https://twitter.com/HQdeepak)
 
 Support my work 
 
 <a href="https://www.buymeacoffee.com/dipakkr" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 117px !important;" ></a>
+
